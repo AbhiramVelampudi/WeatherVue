@@ -1,4 +1,4 @@
-![Screenshot (574)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/d75c6476-046e-4ae0-b3e8-7f3eeec54a0f)
+![Screenshot (598)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/029ef2b4-404a-49e9-8f7c-7def4168ba53)![Screenshot (574)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/d75c6476-046e-4ae0-b3e8-7f3eeec54a0f)
 ![Screenshot (575)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/c575eeac-6467-4176-9e73-5f0cfbefa01d)
 ![Screenshot (576)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/9199fee3-9bf5-46f5-9ddd-2f05af0df954)
 ![Screenshot (577)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/78d713ab-6e6c-4c2e-80a2-3fe97b5597ca)
@@ -20,6 +20,7 @@
 ![Screenshot (595)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/6094102f-b2b4-4e99-a5ad-f073cf181bc6)
 ![Screenshot (596)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/f3760996-fb98-436a-a99a-9cc8d4836e23)
 ![Screenshot (597)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/aef8317a-40cd-42f5-b87f-3e18f6d22862)
-![Screenshot (598)](https://github.com/AbhiramVelampudi/W![Screenshot (599)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/bfdc84b8-3df5-4290-9810-73ab0b9b4c09)
-eatherVue/assets/109567874/3b5c51c1-caa0-4196-bee9-85f968307a40)
 ![Screenshot (600)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/bd4b2003-8e5f-4f5d-8f4b-e428792652d6)
+![Screenshot (598)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/98c0452c-384f-4043-be74-afd20cbf5e13)
+![Screenshot (599)](https://github.com/AbhiramVelampudi/WeatherVue/assets/109567874/8006668d-f370-4860-abf7-49b81cb868d0)
+
